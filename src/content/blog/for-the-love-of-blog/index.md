@@ -40,4 +40,4 @@ I'm now 40, living with my husband and two dogs in the countryside of Spain, and
 
 ---
 
-I should probably write this blog in Portuguese. My mother tongue, which I rarely speak nowadays. English is the language I've been using for everything for the past 15 years, and it's just not feasible to translate everything (I know, because I've tried in the past!). Brazilian friends and family are alienated if I write in English; friends of other countries are alienated if I write in Portuguese. If you have strong feelings about this, send me an email! Let's chat!
+As usual, the age-old Multiligual Blogger Dilemma strikes again: Portuguese is my mother tongue, but English is my main language. Brazilian friends and family are alienated if I write in English; friends of other countries are alienated if I write in Portuguese. If you have strong feelings about this, send me an [email](mailto:hello@mairamartins.com)! Let's chat!
