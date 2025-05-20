@@ -34,3 +34,8 @@ export const SOCIALS: Socials = [
     HREF: "https://github.com/mairamartinsk",
   },
 ];
+
+export const NOW: Metadata = {
+  TITLE: "Now page",
+  DESCRIPTION: "",
+};
