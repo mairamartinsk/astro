@@ -37,7 +37,3 @@ There were two occasions where I truly loved blogging:
 Both times I wrote very true to myself. I didn't care about length or expertise. I just wanted to document the absurdity of it all. So I wrote long texts, in Portuguese, full of humor. And through my writing, I made friends. Real friends, with real in-person encounters and real hugs.
 
 I'm now 40, living with my husband and two dogs in the countryside of Spain, and my social life happens about 4 times a year when friends come to visit us. Is this what a midlife crisis feels like? And is the answer to start writing about it? Maybe.
-
----
-
-As usual, the age-old Multiligual Blogger Dilemma strikes again: Portuguese is my mother tongue, but English is my main language. Brazilian friends and family are alienated if I write in English; friends of other countries are alienated if I write in Portuguese. If you have strong feelings about this, send me an [email](mailto:hello@mairamartins.com)! Let's chat!

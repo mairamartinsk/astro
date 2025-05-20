@@ -7,6 +7,7 @@ import { readingTime } from "@lib/utils";
 import BackToPrevious from "@components/BackToPrevious.astro";
 import PostNavigation from "@components/PostNavigation.astro";
 import TableOfContents from "@components/TableOfContents.astro";
+import Email from "@components/Email.astro";
 
 export async function getStaticPaths() {
   const posts = (await getCollection("blog"))
@@ -74,6 +75,9 @@ const { Content, headings } = await render(post);
     {headings.length > 0 && <TableOfContents headings={headings} />}
     <article class="animate">
       <Content />
+      <div class="animate mt-10 flex items-center justify-center">
+        <Email title={post.data.title} />
+      </div>
       <div class="mt-24">
         <PostNavigation prevPost={prevPost} nextPost={nextPost} />
       </div>
