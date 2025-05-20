@@ -1,8 +1,8 @@
 ---
-title: "For the love of blog";
-description: "Reclaiming my little piece of digital land";
-date: "2025-05-20";
-draft: false;
+title: "For the love of blog"
+description: "Reclaiming my little piece of digital land"
+date: "2025-05-20"
+draft: false
 tags:
   - blogging
 ---
