@@ -1,5 +1,6 @@
 ---
 import Container from "@components/Container.astro";
+import Link from "@components/Link.astro";
 import { SITE } from "@consts";
 import BackToTop from "@components/BackToTop.astro";
 ---
@@ -12,7 +13,11 @@ import BackToTop from "@components/BackToTop.astro";
       </div>
     </div>
     <div class="flex items-center justify-between">
-      <div>&copy; {new Date().getFullYear()} • {SITE.TITLE} 🔬</div>
+      <div>
+        &copy; {new Date().getFullYear()} • {SITE.TITLE}
+        {SITE.EMOJI}
+        Subscribe via <Link href="https://mairamartins.com/rss.xml">RSS</Link>
+      </div>
       <div class="flex flex-wrap items-center gap-1.5">
         <button
           id="light-theme-button"
