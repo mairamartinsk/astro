@@ -33,9 +33,13 @@ export const SOCIALS: Socials = [
     NAME: "github",
     HREF: "https://github.com/mairamartinsk",
   },
+  {
+    NAME: "RSS",
+    HREF: "https://mairamartins.com/rss.xml",
+  },
 ];
 
 export const NOW: Metadata = {
   TITLE: "Now page",
-  DESCRIPTION: "",
+  DESCRIPTION: "What I'm currently doing, thinking, reading...",
 };
