@@ -38,8 +38,3 @@ export const SOCIALS: Socials = [
     HREF: "/rss.xml",
   },
 ];
-
-export const NOW: Metadata = {
-  TITLE: "Now page",
-  DESCRIPTION: "What I'm currently doing, thinking, reading...",
-};
