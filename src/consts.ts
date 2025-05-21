@@ -35,7 +35,7 @@ export const SOCIALS: Socials = [
   },
   {
     NAME: "RSS",
-    HREF: "https://mairamartins.com/rss.xml",
+    HREF: "/rss.xml",
   },
 ];
 
