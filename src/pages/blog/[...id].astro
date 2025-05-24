@@ -44,7 +44,6 @@ const { Content, headings } = await render(post);
         {post.data.title}
       </h1>
     </div>
-    {headings.length > 0 && <TableOfContents headings={headings} />}
     <article class="animate">
       <Content />
       <div class="animate mt-10 mb-10 flex items-center justify-center">
