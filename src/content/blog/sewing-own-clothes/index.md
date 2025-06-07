@@ -1,7 +1,7 @@
 ---
 title: "On sewing my own clothes"
 description: "About making my own clothes and the reasons why it is better than buying"
-date: "2025-05-20"
+date: "2025-06-07"
 draft: false
 tags:
   - sewing
