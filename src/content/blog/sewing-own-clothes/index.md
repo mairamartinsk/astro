@@ -1,7 +1,7 @@
 ---
 title: "On sewing my own clothes"
 description: "About making my own clothes and the reasons why it is better than buying"
-date: "2025-06-07"
+date: "2025-05-20"
 draft: false
 tags:
   - sewing
@@ -19,16 +19,8 @@ Isn't that the same as fast-fashion, labelled as luxury?
 
 ![Basic Dior tank top for 750 euros](./dior-top.png)
 
-Aditionally, look at the price tag in the image above. I'll let that sink in for a moment.
+Aditionally, look at the price tag in the image above. I'll let that sink in for a moment. Seven hundred fifty fricking euros for a tank top? Excuse me?! No. Just no. I refuse. I will make it myself. I will copy this *very elaborate and intricate* Dior tank top.
 
-Seven hundred fifty fricking euros for a tank top? Excuse me?! No. Just no. I refuse. I will make it myself.
-
-For the pattern, I think [Blomma Tank](https://paradisepatterns.com/products/blomma-tank-pdf-sewing-pattern-sizes-a-l-bust-30-60-athletic-style-top-b-cup-and-d-cup-options) from Paradise Patterns will look perfect. For the fabric, there are a ton of options: [basic ribbed knit](https://takoy.es/tela-de-punto-canale-oskar-nuevo-blanco-1-ns-15378), [certified organic](https://www.nastasianash.com/producto/tela-de-punto-organica-blanca-con-elastano/?attribute_cantidad=Unidad+0%2C5+m), and even [rescued](https://www.kilotela.com/producto/tela-punto-canale-algodon-crudo/) fabric. For my size, I'll use less than a meter of fabric so we're looking at 12-16 euros in costs plus 2.50 for the [thread](https://www.merceriabotton.es/hilo-de-coser/hilo-coser-gutermann-tergal-100m-19741.html#/4567-hilos_gutermann-blanco_800). So, a little bit more expensive than the Zara top below, but waaaay cheaper than the Dior above.
+For the pattern, I think [Blomma Tank](https://paradisepatterns.com/products/blomma-tank-pdf-sewing-pattern-sizes-a-l-bust-30-60-athletic-style-top-b-cup-and-d-cup-options) from Paradise Patterns will look perfect. For the fabric, there are a ton of options: [basic ribbed knit](https://takoy.es/tela-de-punto-canale-oskar-nuevo-blanco-1-ns-15378), [certified organic](https://www.nastasianash.com/producto/tela-de-punto-organica-blanca-con-elastano/?attribute_cantidad=Unidad+0%2C5+m), and even [rescued](https://www.kilotela.com/producto/tela-punto-canale-algodon-crudo/) fabric. I'll use less than a meter of fabric to make it in my size, so we're looking at 12-16 euros in costs plus 2.50 for the [thread](https://www.merceriabotton.es/hilo-de-coser/hilo-coser-gutermann-tergal-100m-19741.html#/4567-hilos_gutermann-blanco_800). So, a little bit more expensive than the Zara top below, but waaaay cheaper than the Dior. As for the *adorable* Christian Dior logo slapped right across the chest, give me a **Sharpie**!!!!
 
 ![Basic Zara top for 6.95 euros](./zara-top.png)
-
-When sewing your own clothes, time is the most relevant factor. In my case, I buy digital patterns in PDF, which I then need to print and assemble -- this is the most annoying part, for sure. I'm really interested in a skirt, but am not looking forward to taping together 64 sheets of paper! To save time for future me, I print all the sizes, then trace only the size I'll be sewing on tracing paper and do any alterations then. I find it helps in case I need to grade between sizes, or if I want to sew for another person, or if my size changes. I heard some people get to their old age fitting in the same jeans they wore in high school. Not me!
-
-Then comes preparing the fabric, washing, line drying, ironing, cutting. Finally we are ready for the best part, the sewing machine! But even this is not all roses: sew one side, stop, press the seam, finish the seam, then sew the other side, and so on. And I'm a slow sewist too. All of this is to say: in terms of financial costs, it is not cheaper than fast-fashion, but it is not absurd either. The real cost is in terms of time. However, in this case, investing additional time does not equal "wasted time". I find taking my time to do all of the steps, to press the seams, to go at it slowly and do rip the stitches and re-do if needed, all of that time equals better looking clothes that (in all honesty) look better than anything store-bought. Every garment I've sewn means something to me, because I invested some money and a ton of time in it!
-
-I guess in my next posts I will showcase some of my creations :)
