@@ -1,35 +1,26 @@
 ---
 title: "Now"
 description: "What I'm currently doing, thinking, reading..."
-lastUpdate: "2025-05-24"
+lastUpdate: "2025-06-07"
 ---
 
 This is a [now page](https://nownownow.com/about). It tells you about what I am currently doing, reading, watching, thinking...
 
 ## 📚 reading
 
-- [Death comes as the End](https://www.goodreads.com/book/show/8310461-death-comes-as-the-end) by Agatha Christie
+- [Sparkling Cyanide](https://www.goodreads.com/book/show/6473203-sparkling-cyanide) by Agatha Christie
 - [Trade Mindfully](https://www.goodreads.com/book/show/22576109-trade-mindfully) by Gary Dayton
 
 ## 📺 watching
 
-- [Better Call Saul](https://www.imdb.com/title/tt3032476/) Season 02
+- [Better Call Saul](https://www.imdb.com/title/tt3032476/) Season 03
+
+## 🧵 sewing
+
+I have an enormous list of garments I want to sew, but I'll start small. First off the list, some basic undies I can comfortably [workout](https://www.lorepiar.com/product-page/scrap-sporty-thong-by-lore-piar-free-pdf-pattern-all-sizes) and [sleep](https://www.patternsforpirates.com/product/cutie-booty-boxer-briefs/) in.
 
 ## ⏰ what else?
 
-- Baked a fabulous sourdough boule following [this](https://youtu.be/Mb7rPfSZeT8) recipe! 🍞
-- Traveling to trip to Andalucía next week! 🏕️
-- My shoulder is almost fully recovered! Hope to be back at the gym soon  🏋️‍♀️
-- Really excited about making fresh homemade pasta ever since buying a pasta maker  (way back in December, but the novelty has **not** worn off!) 🍝
-
-## 💾 blog roadmap and changelog
-
-Now that this little humble blog is up and running, I am considering a few improvements. I'm currently pushing the files via FTP to a shared web hosting, but that's not going to work in the long run.
-
-- [x] Decided to blog again! (2025-05-19)
-- [x] Setup Astro, get local environment going (2025-05-20)
-- [x] Githup [repo](https://github.com/mairamartinsk/astro) (2025-05-20)
-- [x] Setup a basic FTP hosting (2025-05-20)
-- [x] Deploy on [netlify](https://mairamartins.netlify.app) (2025-05-21)
-- [ ] Point main domain name to netlify, keep subdomains where they are.
-- [ ] Look into a headless CMS
+- Went to Andalucía this weekend and it was great! 🏕️
+- Going to the doctor this week for my shoulder (rotator cuff) and hope she gives me the ok to go back to the gym  🏋️‍♀️
+- The temperatures are finally above 30ºC and I've been jumping in the pool every day now! 💦
